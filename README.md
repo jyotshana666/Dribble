@@ -26,7 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-home.html
+#### home.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -181,7 +181,7 @@ home.html
 </html>
 
 ```
-mac.html
+#### mac.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -368,7 +368,7 @@ mac.html
 
 
 ```
-ipad.html
+#### ipad.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -553,7 +553,7 @@ ipad.html
 </html>
 
 ```
-iphone.html
+#### iphone.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -738,7 +738,7 @@ iphone.html
 </html>
 
 ```
-contact.html
+#### contact.html
 ```
 <!DOCTYPE html>
 <html lang="en">
